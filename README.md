@@ -27,12 +27,8 @@
 <a href="https://github.com/LuYuan-Zjyy/InteractiveFusion-Sentiment"><img src="assets/p2-sentiment.svg" width="880" alt="InteractiveFusion-Sentiment"></a><br/><br/>
 <a href="https://github.com/LuYuan-Zjyy/factguardian"><img src="assets/p3-factguardian.svg" width="880" alt="factguardian"></a>
 </div>
-<br/>
 
-<div align="center">
-<a href="https://github.com/LuYuan-Zjyy/Traveling-v2"><img src="assets/m1-zhilv.svg" width="424" alt="Traveling-v2"></a>&nbsp;&nbsp;<a href="https://github.com/LuYuan-Zjyy/OpenChain"><img src="assets/m2-openchain.svg" width="424" alt="OpenChain"></a><br/><br/>
-<a href="https://github.com/LuYuan-Zjyy/Py-MapReduce"><img src="assets/m3-mapreduce.svg" width="424" alt="Py-MapReduce"></a>&nbsp;&nbsp;<a href="https://github.com/LuYuan-Zjyy/Bookstore"><img src="assets/m4-coursework.svg" width="424" alt="Bookstore"></a>
-</div>
+Four more systems — **Traveling-v2**, **OpenChain**, **Py-MapReduce**, **Bookstore** — are listed under *open source* below, each with its stack and what it actually does.
 <br/>
 
 <img src="assets/sec-research.svg" width="880" alt="Research" />
